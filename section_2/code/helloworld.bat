@@ -1,3 +1,3 @@
 @echo off
-echo "Hello World!!"
+echo "welcome to minfy !!"
 pause
